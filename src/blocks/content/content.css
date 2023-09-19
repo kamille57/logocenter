@@ -1,0 +1,10 @@
+.content {
+    max-width: 1920px;
+    min-width: 320px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+    background-color: #6EC1E4;
+    box-sizing: border-box;
+  }

@@ -1,0 +1,10 @@
+.central {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1176px;
+    min-height: 0vh;
+    text-align: center;
+    margin: 0 auto;
+}

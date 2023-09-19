@@ -1,0 +1,7 @@
+.central__logo {
+    display: flex;
+    width: 56%;
+    max-width: 69%;
+    height: 226px;
+    object-fit: contain;
+}
