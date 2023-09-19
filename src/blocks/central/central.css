@@ -1,10 +1,8 @@
 .central {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    max-width: 1176px;
-    min-height: 0vh;
-    text-align: center;
+    max-width: 1440px;
+    min-height: 745px;
     margin: 0 auto;
+    display: flex;
+    position: relative;
+    flex-direction: column;
 }

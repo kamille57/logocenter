@@ -1,13 +1,11 @@
 .central__description {
-    display: flex;
-    margin: 0;
-    padding: 20px;
-    font-family: Inter;
-    font-size: 18px;
+    position: relative;
+    margin: 25px auto 25px;
+    font-style: normal;
     font-weight: 400;
+    font-size: 18px;
     line-height: 22px;
-    letter-spacing: 0em;
-    text-align: right;
-    text-decoration: none;
+    text-align: center;
+    z-index: 2;
     color: #071531;
 }

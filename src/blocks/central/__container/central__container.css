@@ -1,0 +1,8 @@
+.central__container {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    object-fit: contain;
+    background-color: #6EC1E4;
+}

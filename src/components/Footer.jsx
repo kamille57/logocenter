@@ -2,9 +2,9 @@ import React from "react";
 
 function Footer() {
   return (
-    <main className="content">
-
-    </main>
+    <footer className="footer">
+      <p>футер</p>
+    </footer>
   );
 }
 

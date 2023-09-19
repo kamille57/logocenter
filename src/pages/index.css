@@ -1,7 +1,15 @@
 @import url(../vendor/normalize.css);
 @import url(../fonts/fonts.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
 @import url(../blocks/content/content.css);
 @import url(../blocks/central/central.css);
+@import url(../blocks/central/__container/central__container.css);
 @import url(../blocks/central/__description/central__description.css);
 @import url(../blocks/central/__logo/central__logo.css);
+@import url(../blocks/central/__overlay/central__overlay.css);
+@import url(../blocks/footer/footer.css);
+
+/**{
+    border: 1px solid red;
+  }*/
