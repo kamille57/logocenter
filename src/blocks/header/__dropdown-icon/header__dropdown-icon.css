@@ -1,6 +1,7 @@
 .header__dropdown-icon {
-    background-image: url('../../../images/header__dropdown-icon.svg');
-    background-repeat: no-repeat;
-    background-size: 10px 10px;
-    display: inline-block;
+    width: 10px;
+    height: 10px;
+    box-sizing: border-box;
+    margin: 5px 0 0 4px;
+    display: flex;
 }

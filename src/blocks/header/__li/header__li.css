@@ -1,7 +1,8 @@
 .header__li {
-    margin-right: 20px;
+    margin: 0;
+    display: flex;
 }
 
 .header__li:hover {
-    display: block;
+    display: flex;
 }

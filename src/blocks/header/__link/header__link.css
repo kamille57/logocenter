@@ -6,10 +6,13 @@
     font-weight: 600;
     font-size: 15px;
     transition: color 0.3s;
+    display: flex;
+    padding: 7px 15px 7px 15px;
 }
 
 .header__link:hover {
     color: #0f7cc0;
     background-color: #fff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
 }

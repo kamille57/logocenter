@@ -1,6 +1,7 @@
 .header__dropdown-content {
     display: block;
     position: absolute;
+    left: 405px;
     background-color: #fff;
     list-style: none;
     padding: 0;
@@ -9,9 +10,11 @@
     opacity: 0;
     transform: translateY(-10px);
     transition: opacity 0.1s ease, transform 0.1s ease;
+    width: 180px;
+    border-top: 3px solid black; 
 }
 
 .header__dropdown-li:hover .header__dropdown-content {
     opacity: 1;
-    transform: translateY(0);
+    transform: translateY(20px);
 }
