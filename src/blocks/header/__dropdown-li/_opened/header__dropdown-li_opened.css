@@ -1,0 +1,4 @@
+.header__dropdown-li_opened {
+    width: 100%;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+}

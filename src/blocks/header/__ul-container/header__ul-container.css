@@ -1,3 +1,16 @@
 .header__ul-container {
+    list-style: none;
+    padding: 0;
+    margin: 0;
     display: flex;
+    flex-direction: row;
+    max-width: 1100px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 769px) {
+    .header__ul-container {
+        flex-direction: column;
+    }
 }

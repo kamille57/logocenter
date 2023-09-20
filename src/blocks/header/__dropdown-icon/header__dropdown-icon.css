@@ -1,0 +1,7 @@
+.header__dropdown-icon {
+    width: 10px;
+    height: 10px;
+    box-sizing: border-box;
+    margin: 5px 0 0 4px;
+    display: flex;
+}
