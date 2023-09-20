@@ -15,9 +15,9 @@ function Header() {
                         </a>
                     </div>
                     <ul className="header__dropdown-content">
-                        <li className="header__dropdown-li_opened"><a className="header__link" href="#">Что-то</a></li>
-                        <li className="header__dropdown-li_opened"><a className="header__link" href="#">Еще что-то</a></li>
-                        <li className="header__dropdown-li_opened"><a className="header__link" href="#">И еще</a></li>
+                        <li className="header__dropdown-li_opened"><a className="header__link_opened" href="#">Дошкольный возраст</a></li>
+                        <li className="header__dropdown-li_opened"><a className="header__link_opened" href="#">Школьный возраст</a></li>
+                        <li className="header__dropdown-li_opened"><a className="header__link_opened" href="#">Подростки и взрослые</a></li>
                     </ul>
                 </li>
                 <li className="header__li"><a className="header__link" href="#">Галерея</a></li>
