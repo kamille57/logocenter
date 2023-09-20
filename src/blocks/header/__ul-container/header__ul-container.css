@@ -8,3 +8,9 @@
     width: 100%;
     justify-content: space-between;
 }
+
+@media screen and (max-width: 769px) {
+    .header__ul-container {
+        flex-direction: column;
+    }
+}

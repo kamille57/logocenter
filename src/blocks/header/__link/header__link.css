@@ -16,3 +16,17 @@
     box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
     border-radius: 3px;
 }
+
+@media screen and (max-width: 769px) {
+    .header__link {
+        width: 100%;
+        padding: 10px;
+    }
+
+    .header__link:hover {
+        color: #0f7cc0;
+        background-color: #fff;
+        box-shadow: none;
+        border-radius: 1px;
+    }
+}
