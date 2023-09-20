@@ -1,0 +1,6 @@
+.header__dropdown-icon {
+    background-image: url('../../../images/header__dropdown-icon.svg');
+    background-repeat: no-repeat;
+    background-size: 10px 10px;
+    display: inline-block;
+}

@@ -1,6 +1,4 @@
 .header {
-    max-height: 200px;
-    height: 100%;
+    padding: 0;
     margin: 0 auto;
-    text-decoration: none;
 }

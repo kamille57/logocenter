@@ -8,7 +8,7 @@ function Header() {
                 <li className="header__li"><a className="header__link" href="#">Главная</a></li>
                 <li className="header__li"><a className="header__link" href="#">О нас</a></li>
                 <li className="header__dropdown-li">
-                    <a className="header__dropdown-link" href="#">Услуги &#9662;</a>
+                    <a className="header__dropdown-link" href="#">Услуги<span className="header__dropdown-icon"></span></a>
                     <ul className="header__dropdown-content">
                         <li className="header__dropdowm-li"><a className="header__link" href="#">Что-то</a></li>
                         <li className="header__dropdowm-li"><a className="header__link" href="#">Еще что-то</a></li>

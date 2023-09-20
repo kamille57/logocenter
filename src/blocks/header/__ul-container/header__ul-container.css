@@ -1,3 +1,5 @@
 .header__ul-container {
+    list-style: none;
+    padding: 0;
     display: flex;
 }
