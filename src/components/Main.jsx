@@ -13,7 +13,7 @@ function Main() {
             src={centralLogo}
             alt="логотип центра"
           />
-          <p className="central__description">
+          <p className="central__description" >
             С нами ваши дети будут говорить Горько, а не Койко!
           </p>
         </div>
