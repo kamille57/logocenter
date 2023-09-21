@@ -1,0 +1,11 @@
+.footer__text_description {
+    padding: 0;
+    margin: 0 0 44px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120%; 
+    letter-spacing: 0.14px;
+    max-width: 292px;
+    opacity: 0.8;
+}
