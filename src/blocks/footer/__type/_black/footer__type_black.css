@@ -1,6 +1,11 @@
 .footer__type_black {
     margin: auto;
-    padding: 0;
-    background-color: black;
+    background-color: #232323;
     height: 40px;
+}
+
+@media screen and (max-width: 320px) {
+    .footer__type_black {
+        height: 140px;
+    }
 }

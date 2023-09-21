@@ -45,6 +45,8 @@
 @import url(../blocks/footer/__copyrights/footer__copyrights.css);
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__type/_black/footer__type_black.css);
+@import url(../vendor/fonts/stylesheet.css);
+
 
 /* *{
     border: 1px solid yellow;

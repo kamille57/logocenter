@@ -3,3 +3,10 @@
     padding: 0;
     margin: 0 0 30.1px 0;
 }
+
+@media screen and (max-width: 320px) {
+    .logo__place_footer {
+        margin: 77px 0 24.97px;
+        max-width: 160px;
+    }
+}
