@@ -1,0 +1,18 @@
+.footer__text_contact-info {
+    margin: 0;
+    padding: 0;
+    opacity: 0.8;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 113%;
+    letter-spacing: 0.16px;
+}
+
+.footer__text_contact-info:nth-last-of-type(2) {
+    margin: 0 0 15px;
+}
+
+.footer__text_contact-info:nth-last-of-type(1) {
+    margin: 0 0 39px;
+}

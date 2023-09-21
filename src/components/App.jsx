@@ -7,8 +7,6 @@ import Footer from "./Footer.jsx";
 function App() {
   return (
     <div className="page">
-      <Header />
-      <Main />
       <Footer />
     </div>
   );
