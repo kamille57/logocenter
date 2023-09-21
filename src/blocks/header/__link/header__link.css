@@ -8,6 +8,7 @@
     transition: color 0.3s;
     display: flex;
     padding: 7px 15px 7px 15px;
+    align-items: center;
 }
 
 .header__link:hover {
