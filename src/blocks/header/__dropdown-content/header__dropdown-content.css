@@ -10,12 +10,11 @@
     z-index: 1;
     opacity: 0;
     transform: translateY(-10px);
-    transition: opacity 0.1s ease, transform 0.1s ease, visibility 0.1s ease;    width: 180px;
-    border-top: 3px solid black; 
+    transition: opacity 0.1s ease, transform 0.1s ease, visibility 0.1s ease; width: 180px;
 }
 
 .header__dropdown-li:hover .header__dropdown-content {
     visibility: visible;
     opacity: 1;
-    transform: translateY(35px);
+    transform: translateY(44px);
 }

@@ -10,8 +10,9 @@ function Header() {
                 <img className="header__logo" src={headerLogo} />
             </a>
             <ul className="header__ul-container">
-                <li className="header__li"><a className="header__link" href="#">Главная</a></li>
+                <li className="header__li"><a className="header__link" href="#">Курсы</a></li>
                 <li className="header__li"><a className="header__link" href="#">О нас</a></li>
+                <li className="header__li"><a className="header__link" href="#">Блог</a></li>
                 <li className="header__dropdown-li">
                     <div className="header__dropdown-group">
                         <a className="header__dropdown-link" href="#">Направления
@@ -24,10 +25,6 @@ function Header() {
                         <li className="header__dropdown-li_opened"><a className="header__link_opened" href="#">Подростки и взрослые</a></li>
                     </ul>
                 </li>
-                <li className="header__li"><a className="header__link" href="#">Галерея</a></li>
-                <li className="header__li"><a className="header__link" href="#">Статьи</a></li>
-                <li className="header__li"><a className="header__link" href="#">Услуги и цены</a></li>
-                <li className="header__li"><a className="header__link" href="#">Контакты</a></li>
             </ul>
         </nav>
     </header>

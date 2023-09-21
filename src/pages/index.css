@@ -20,9 +20,3 @@
 @import url(../blocks/header/__dropdown-icon/header__dropdown-icon.css);
 @import url(../blocks/header/__dropdown-li/_opened/header__dropdown-li_opened.css);
 @import url(../blocks/header/__link/_opened/header__link_opened.css);
-
-
-
-/**{
-    border: 1px solid red;
-  }*/
