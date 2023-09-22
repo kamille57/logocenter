@@ -16,3 +16,13 @@
 .footer__text_contact-info:nth-last-of-type(1) {
     margin: 0 0 39px;
 }
+
+@media screen and (max-width: 320px) {
+    .footer__text_contact-info {
+        font-size: 14px;
+        letter-spacing: 0.14px;
+    }
+    .footer__text_contact-info:nth-last-of-type(1) {
+        margin: 0 0 22px;
+    }
+}

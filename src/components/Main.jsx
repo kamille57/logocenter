@@ -7,12 +7,12 @@ function Main() {
     <main id="main" className="content">
       <section className="central">
         <div className="central__container">
-          <img className="central__overlay" src={centralOverlay}/>
+          {/* <img className="central__overlay" src={centralOverlay}/>
           <img
             className="central__logo"
             src={centralLogo}
             alt="логотип центра"
-          />
+          /> */}
           <p className="central__description" >
             С нами ваши дети будут говорить Горько, а не Койко!
           </p>
