@@ -1,0 +1,6 @@
+.whome__column {
+    display: flex;
+    flex-direction: column;
+    max-width: 455px;
+   
+}

@@ -1,0 +1,11 @@
+.whome-item__text {
+    margin: 0;
+    align-self: stretch;
+    font-family: Gilroy;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+    color: #585858;
+}
