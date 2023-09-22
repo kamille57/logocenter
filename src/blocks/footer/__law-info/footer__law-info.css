@@ -1,4 +1,11 @@
 .footer__law-info {
     padding: 0;
-    justify-self: start;
+}
+
+@media screen and (max-width: 320px) {
+    .footer__law-info {
+        display: flex;
+        align-self: flex-start;
+        flex-direction: column;
+    }
 }

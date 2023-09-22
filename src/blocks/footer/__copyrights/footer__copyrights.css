@@ -6,3 +6,17 @@
     align-items: center;
     justify-content: space-between;
 }
+
+@media screen and (max-width: 768px) {
+    .footer__copyrights {
+        max-width: 704px;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .footer__copyrights {
+        max-width: 288px;
+        flex-direction: column;
+    }
+}
