@@ -19,5 +19,5 @@
 .header__dropdown-li:hover .header__dropdown-content {
     visibility: visible;
     opacity: 1;
-    transform: translateY(44px);
+    transform: translateY(47px);
 }

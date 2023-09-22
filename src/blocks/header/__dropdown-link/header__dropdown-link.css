@@ -17,6 +17,5 @@
 
 .header__dropdown-link:hover {
     color: #641F76;
-    border-radius: 1px;
-    border-bottom: 2px solid var(--purple-active, #641F76);;
+    border-bottom: 2px solid var(--purple-active, #641F76);
 }

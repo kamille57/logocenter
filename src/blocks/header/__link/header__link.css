@@ -18,6 +18,7 @@
 
 .header__link:hover {
     color: #641F76;
+    border-bottom: 2px solid var(--purple-active, #641F76);
 }
 
 @media screen and (max-width: 769px) {
@@ -30,6 +31,5 @@
         color: #641F76;
         background-color: #fff;
         box-shadow: none;
-        border-radius: 1px;
     }
 }
