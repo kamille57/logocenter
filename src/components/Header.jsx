@@ -20,9 +20,15 @@ function Header() {
                         </a>
                     </div>
                     <ul className="header__dropdown-content">
+<<<<<<<<< Temporary merge branch 1
                         <li className="header__dropdown-li_opened"><a className="header__link_opened" href="#">FAQ</a></li>
                         <li className="header__dropdown-li_opened"><a className="header__link_opened" href="#">Контакты</a></li>
                         <li className="header__dropdown-li_opened"><a className="header__link_opened" href="#">Условия оплаты</a></li>
+=========
+                        <li className="header__dropdown-li_opened"><a className="header__link_opened" href="#">Дошкольный возраст</a></li>
+                        <li className="header__dropdown-li_opened"><a className="header__link_opened" href="#">Школьный возраст</a></li>
+                        <li className="header__dropdown-li_opened"><a className="header__link_opened" href="#">Подростки и взрослые</a></li>
+>>>>>>>>> Temporary merge branch 2
                     </ul>
                 </li>
             </ul>
