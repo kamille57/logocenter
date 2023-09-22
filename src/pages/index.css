@@ -20,3 +20,35 @@
 @import url(../blocks/header/__dropdown-icon/header__dropdown-icon.css);
 @import url(../blocks/header/__dropdown-li/_opened/header__dropdown-li_opened.css);
 @import url(../blocks/header/__link/_opened/header__link_opened.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/logo__place_footer.css);
+@import url(../blocks/footer/__text/footer__text.css);
+@import url(../blocks/footer/__text/_description/footer__text_description.css);
+@import url(../blocks/footer/__text/_contact-info/footer__text_contact-info.css);
+@import url(../blocks/footer/__text/_contact-number/footer__text_contact-number.css);
+@import url(../blocks/footer/__social/footer__social.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
+@import url(../blocks/footer/__payment/footer__payment.css);
+@import url(../blocks/footer/__payment-icon/footer__payment-icon.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__column_links/footer__column_links.css);
+@import url(../blocks/footer/__column_link/footer__column_link.css);
+@import url(../blocks/footer/__column_heading/footer__column_heading.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__column/_content/_social/footer__column_content_social.css);
+@import url(../blocks/footer/__column/_content/_info/footer__column_content_info.css);
+@import url(../blocks/footer/__column/_content/_education/footer__column_content_education.css);
+@import url(../blocks/footer/__column/_content/_copyright/footer__column_content_copyright.css);
+@import url(../blocks/footer/__law-info/footer__law-info.css);
+@import url(../blocks/footer/__link/_type/_type_law.css);
+@import url(../blocks/footer/__copyrights/footer__copyrights.css);
+@import url(../blocks/footer/__author/footer__author.css);
+@import url(../blocks/footer/__type/_black/footer__type_black.css);
+@import url(../vendor/fonts/stylesheet.css);
+
+
+/* *{
+    border: 1px solid yellow;
+  } */

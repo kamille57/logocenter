@@ -1,0 +1,25 @@
+.footer__author {
+    padding: 0;
+    align-self: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 113%;
+    letter-spacing: 0.14px;
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 768px) {
+    .footer__author {
+        text-align: left;
+        font-size: 12px;
+        font-style: normal;
+        letter-spacing: 0.12px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .footer__author {
+        align-self: flex-start;
+    }
+}
