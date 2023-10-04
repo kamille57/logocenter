@@ -10,21 +10,20 @@ function Header() {
                 <img className="header__logo" src={headerLogo} />
             </a>
             <ul className="header__ul-container">
-                <li className="header__li"><a className="header__link" href="#">Курсы</a></li>
-                <li className="header__li"><a className="header__link" href="#">О нас</a></li>
-                <li className="header__li"><a className="header__link" href="#">Блог</a></li>
                 <li className="header__dropdown-li">
                     <div className="header__dropdown-group">
-                        <a className="header__dropdown-link" href="#">Направления
+                        <a className="header__dropdown-link" href="#">О нас
                             <img src={headerDropdownIcon} className="header__dropdown-icon" alt="#"/>
                         </a>
                     </div>
                     <ul className="header__dropdown-content">
-                        <li className="header__dropdown-li_opened"><a className="header__link_opened" href="#">FAQ</a></li>
                         <li className="header__dropdown-li_opened"><a className="header__link_opened" href="#">Контакты</a></li>
-                        <li className="header__dropdown-li_opened"><a className="header__link_opened" href="#">Условия оплаты</a></li>
+                        <li className="header__dropdown-li_opened"><a className="header__link_opened" href="#">Специалисты</a></li>
                     </ul>
                 </li>
+                <li className="header__li"><a className="header__link" href="#">Направления</a></li>
+                <li className="header__li"><a className="header__link" href="#">Услуги</a></li>
+                <li className="header__li"><a className="header__link" href="#">Блог</a></li>
             </ul>
         </nav>
     </header>

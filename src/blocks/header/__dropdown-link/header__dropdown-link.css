@@ -13,6 +13,7 @@
     padding: 10px 15px;
     display: flex;
     transition: background-color 0.3s;
+    border-bottom: 2px solid transparent;
 }
 
 .header__dropdown-link:hover {
