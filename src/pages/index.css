@@ -27,3 +27,11 @@
 @import url(../blocks/courses/__button/courses__button.css);
 @import url(../blocks/courses/__grid/courses__grid.css);
 @import url(../blocks/courses/__card-item/courses__card-item.css);
+@import url(../blocks/card-item/__img/card-item__img.css);
+@import url(../blocks/card-item/__title/card-item__title.css);
+@import url(../blocks/card-item/__subtitle/card-item__subtitle.css);
+@import url(../blocks/card-item/__span/card-item__span.css);
+@import url(../blocks/card-item/__price-group/card-item__price-group.css);
+@import url(../blocks/card-item/__link/card-item__link.css);
+@import url(../blocks/card-item/__img-arrow/card-item__img-arrow.css);
+@import url(../blocks/card-item/__price/card-item__price.css);

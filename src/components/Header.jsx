@@ -1,4 +1,3 @@
-import React from "react";
 import headerDropdownIcon from "../images/header__dropdown-icon.svg";
 import headerLogo from '../images/logo.svg';
 

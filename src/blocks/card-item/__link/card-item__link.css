@@ -1,0 +1,16 @@
+.card-item__link {
+    font-family: Gilroy, -apple-system, 
+        BlinkMacSystemFont, 'Segoe UI', Roboto, 
+        Oxygen, Ubuntu, Cantarell, 'Open Sans', 
+        'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 113%; /* 22.6px */
+    letter-spacing: 0.2px;
+    color: #8E49A0;
+    margin: 20px 0 0 0;
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
+}

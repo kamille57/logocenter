@@ -1,3 +1,5 @@
+import cardItemImg from '../images/courses__card-item__img.svg';
+import cardItemImgArrow from '../images/card-item__img-arrow.svg';
 
 function Courses () {
     return (
@@ -10,62 +12,74 @@ function Courses () {
                 <div className="courses__grid">
                     <article className="courses__card-item">
                         <div className="card-item__container">
-                            <img className="card-item__img"></img>
+                            <img className="card-item__img" src={cardItemImg} alt='Лого курса' />
                             <h2 className="card-item__title">Запуск речи</h2>
                             <p className="card-item__subtitle">Длительность:<span className="card-item__span">45 минут</span></p>
                             <p className="card-item__subtitle">Этапов:<span className="card-item__span">3 занятия</span></p>
-                            <a className="card-item__link">Узнать подробнее<img className="card-item__img-arrow" /></a>
-                            <p className="card-item__price">От 1875р.</p>
+                            <div className='card-item__price-group'>
+                                <a className="card-item__link" href='#'>Узнать подробнее<img className="card-item__img-arrow" src={cardItemImgArrow} /></a>
+                                <p className="card-item__price">От 1875р.</p>
+                            </div>
                         </div>
                     </article>
                     <article className="courses__card-item">
                         <div className="card-item__container">
-                            <img className="card-item__img"></img>
+                            <img className="card-item__img" src={cardItemImg} alt='Лого курса' />
                             <h2 className="card-item__title">Запуск речи</h2>
                             <p className="card-item__subtitle">Длительность:<span className="card-item__span">45 минут</span></p>
                             <p className="card-item__subtitle">Этапов:<span className="card-item__span">3 занятия</span></p>
-                            <a className="card-item__link">Узнать подробнее<img className="card-item__img-arrow" /></a>
-                            <p className="card-item__price">От 1875р.</p>
+                            <div className='card-item__price-group'>
+                                <a className="card-item__link" href='#'>Узнать подробнее<img className="card-item__img-arrow" src={cardItemImgArrow} /></a>
+                                <p className="card-item__price">От 1875р.</p>
+                            </div>
                         </div>
                     </article>
                     <article className="courses__card-item">
                         <div className="card-item__container">
-                            <img className="card-item__img"></img>
+                            <img className="card-item__img" src={cardItemImg} alt='Лого курса' />
                             <h2 className="card-item__title">Запуск речи</h2>
                             <p className="card-item__subtitle">Длительность:<span className="card-item__span">45 минут</span></p>
                             <p className="card-item__subtitle">Этапов:<span className="card-item__span">3 занятия</span></p>
-                            <a className="card-item__link">Узнать подробнее<img className="card-item__img-arrow" /></a>
-                            <p className="card-item__price">От 1875р.</p>
+                            <div className='card-item__price-group'>
+                                <a className="card-item__link" href='#'>Узнать подробнее<img className="card-item__img-arrow" src={cardItemImgArrow} /></a>
+                                <p className="card-item__price">От 1875р.</p>
+                            </div>
                         </div>
                     </article>
                     <article className="courses__card-item">
                         <div className="card-item__container">
-                            <img className="card-item__img"></img>
+                            <img className="card-item__img" src={cardItemImg} alt='Лого курса' />
                             <h2 className="card-item__title">Запуск речи</h2>
                             <p className="card-item__subtitle">Длительность:<span className="card-item__span">45 минут</span></p>
                             <p className="card-item__subtitle">Этапов:<span className="card-item__span">3 занятия</span></p>
-                            <a className="card-item__link">Узнать подробнее<img className="card-item__img-arrow" /></a>
-                            <p className="card-item__price">От 1875р.</p>
+                            <div className='card-item__price-group'>
+                                <a className="card-item__link" href='#'>Узнать подробнее<img className="card-item__img-arrow" src={cardItemImgArrow} /></a>
+                                <p className="card-item__price">От 1875р.</p>
+                            </div>
                         </div>
                     </article>
                     <article className="courses__card-item">
                         <div className="card-item__container">
-                            <img className="card-item__img"></img>
+                            <img className="card-item__img" src={cardItemImg} alt='Лого курса' />
                             <h2 className="card-item__title">Запуск речи</h2>
                             <p className="card-item__subtitle">Длительность:<span className="card-item__span">45 минут</span></p>
                             <p className="card-item__subtitle">Этапов:<span className="card-item__span">3 занятия</span></p>
-                            <a className="card-item__link">Узнать подробнее<img className="card-item__img-arrow" /></a>
-                            <p className="card-item__price">От 1875р.</p>
+                            <div className='card-item__price-group'>
+                                <a className="card-item__link" href='#'>Узнать подробнее<img className="card-item__img-arrow" src={cardItemImgArrow} /></a>
+                                <p className="card-item__price">От 1875р.</p>
+                            </div>
                         </div>
                     </article>
                     <article className="courses__card-item">
                         <div className="card-item__container">
-                            <img className="card-item__img"></img>
+                            <img className="card-item__img" src={cardItemImg} alt='Лого курса' />
                             <h2 className="card-item__title">Запуск речи</h2>
                             <p className="card-item__subtitle">Длительность:<span className="card-item__span">45 минут</span></p>
                             <p className="card-item__subtitle">Этапов:<span className="card-item__span">3 занятия</span></p>
-                            <a className="card-item__link">Узнать подробнее<img className="card-item__img-arrow" /></a>
-                            <p className="card-item__price">От 1875р.</p>
+                            <div className='card-item__price-group'>
+                                <a className="card-item__link" href='#'>Узнать подробнее<img className="card-item__img-arrow" src={cardItemImgArrow} /></a>
+                                <p className="card-item__price">От 1875р.</p>
+                            </div>
                         </div>
                     </article>
                 </div>
