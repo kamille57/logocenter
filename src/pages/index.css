@@ -20,3 +20,10 @@
 @import url(../blocks/header/__dropdown-icon/header__dropdown-icon.css);
 @import url(../blocks/header/__dropdown-li/_opened/header__dropdown-li_opened.css);
 @import url(../blocks/header/__link/_opened/header__link_opened.css);
+@import url(../blocks/courses/courses.css);
+@import url(../blocks/courses/__container/courses__container.css);
+@import url(../blocks/courses/__title-group/courses__title-group.css);
+@import url(../blocks/courses/__title/courses__title.css);
+@import url(../blocks/courses/__button/courses__button.css);
+@import url(../blocks/courses/__grid/courses__grid.css);
+@import url(../blocks/courses/__card-item/courses__card-item.css);

@@ -1,0 +1,7 @@
+.courses__card-item {
+    width: 453px;
+    height: 325px;
+    background-color: var(--blue-secondary, #DEF1FF);
+    border-radius: 10px;
+    margin: 0;
+}

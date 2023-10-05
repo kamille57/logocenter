@@ -1,0 +1,9 @@
+.courses__grid {
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 40px;
+    max-width: 1440px;
+    width: 100%;
+}
