@@ -77,3 +77,11 @@
 @import url(../blocks/whome-item/__text/whome-item__text.css);
 @import url(../blocks/whome-item/__title/whome-item__title.css);
 @import url(../blocks/whome-item/__container/whome-item__container.css);
+
+@import url(../blocks/why/why.css);
+@import url(../blocks/why/__description/why__description.css);
+@import url(../blocks/why/__img/why__img.css);
+@import url(../blocks/why/__number/why__number.css);
+@import url(../blocks/why/__title/why__title.css);
+@import url(../blocks/why/__text/why__text.css);
+@import url(../blocks/why/__heading/why__heading.css);

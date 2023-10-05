@@ -1,0 +1,7 @@
+.why__description {
+    display: grid;
+    grid-template-areas: 
+    "num img"
+    "head img"
+    "descript img"; 
+}
