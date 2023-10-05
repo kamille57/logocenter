@@ -18,12 +18,12 @@ function Whome() {
                 <div className="whome-item">
                     <img className="whome-item__icon" src={pupilsIcon} alt="" />
                     <h3 className="whome-item__title">Школьникам</h3>
-                    <p className="whome-item__text">Сдать выпускные экзамены или поступить в ВУЗ.</p>
+                    <p className="whome-item__text">Сдать выпускные экзамены или поступить в ВУЗ.</p>
                 </div>
                 <div className="whome-item">
                     <img className="whome-item__icon" src={migrants} alt="" />
                     <h3 className="whome-item__title">Эмигрантам</h3>
-                    <p className="whome-item__text">Адаптироваться в новой стране, создать конкурентное преимущество и трудоустроиться</p>
+                    <p className="whome-item__text">Адаптироваться в новой стране, создать конкурентное преимущество и трудоустроиться</p>
                 </div>
                 <div className="whome-item">
                     <img className="whome-item__icon" src={business} alt="" />
@@ -33,12 +33,12 @@ function Whome() {
                 <div className="whome-item">
                     <img className="whome-item__icon" src={students} alt="" />
                     <h3 className="whome-item__title">Студентам</h3>
-                    <p className="whome-item__text">Переехать на обучение в другую страну или найти высокооплачеваемую работу</p>
+                    <p className="whome-item__text">Переехать на обучение в другую страну или найти высокооплачеваемую работу</p>
                 </div>
                 <div className="whome-item">
                     <img className="whome-item__icon" src={message} alt="" />
                     <h3 className="whome-item__title">Общительным</h3>
-                    <p className="whome-item__text">Создать счастливую семью с иностранцем и интегрироваться в новое общество</p>
+                    <p className="whome-item__text">Создать счастливую семью с иностранцем и интегрироваться в новое общество</p>
                 </div>
                 <div className="whome-item">
                     <img className="whome-item__icon" src={travelers} alt="" />
