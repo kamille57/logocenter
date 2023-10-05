@@ -2,12 +2,15 @@
 @import url(../fonts/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/content/content.css);
+
 @import url(../blocks/central/central.css);
 @import url(../blocks/central/__container/central__container.css);
 @import url(../blocks/central/__description/central__description.css);
 @import url(../blocks/central/__logo/central__logo.css);
 @import url(../blocks/central/__overlay/central__overlay.css);
+
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__menu-conatiner/header__menu-container.css);
 @import url(../blocks/header/__ul-container/header__ul-container.css);
 @import url(../blocks/header/__li/header__li.css);
@@ -20,8 +23,57 @@
 @import url(../blocks/header/__dropdown-li/_opened/header__dropdown-li_opened.css);
 @import url(../blocks/header/__link/_opened/header__link_opened.css);
 
+@import url(../blocks/courses/courses.css);
+@import url(../blocks/courses/__container/courses__container.css);
+@import url(../blocks/courses/__title-group/courses__title-group.css);
+@import url(../blocks/courses/__title/courses__title.css);
+@import url(../blocks/courses/__button/courses__button.css);
+@import url(../blocks/courses/__grid/courses__grid.css);
+@import url(../blocks/courses/__card-item/courses__card-item.css);
+@import url(../blocks/card-item/__img/card-item__img.css);
+@import url(../blocks/card-item/__title/card-item__title.css);
+@import url(../blocks/card-item/__subtitle/card-item__subtitle.css);
+@import url(../blocks/card-item/__span/card-item__span.css);
+@import url(../blocks/card-item/__price-group/card-item__price-group.css);
+@import url(../blocks/card-item/__link/card-item__link.css);
+@import url(../blocks/card-item/__img-arrow/card-item__img-arrow.css);
+@import url(../blocks/card-item/__price/card-item__price.css);
 
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/logo__place_footer.css);
+@import url(../blocks/footer/__text/footer__text.css);
+@import url(../blocks/footer/__text/_description/footer__text_description.css);
+@import url(../blocks/footer/__text/_contact-info/footer__text_contact-info.css);
+@import url(../blocks/footer/__text/_contact-number/footer__text_contact-number.css);
+@import url(../blocks/footer/__social/footer__social.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
+@import url(../blocks/footer/__payment/footer__payment.css);
+@import url(../blocks/footer/__payment-icon/footer__payment-icon.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__column_links/footer__column_links.css);
+@import url(../blocks/footer/__column_link/footer__column_link.css);
+@import url(../blocks/footer/__column_heading/footer__column_heading.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__column/_content/_social/footer__column_content_social.css);
+@import url(../blocks/footer/__column/_content/_info/footer__column_content_info.css);
+@import url(../blocks/footer/__column/_content/_education/footer__column_content_education.css);
+@import url(../blocks/footer/__column/_content/_copyright/footer__column_content_copyright.css);
+@import url(../blocks/footer/__law-info/footer__law-info.css);
+@import url(../blocks/footer/__link/_type/_type_law.css);
+@import url(../blocks/footer/__copyrights/footer__copyrights.css);
+@import url(../blocks/footer/__author/footer__author.css);
+@import url(../blocks/footer/__type/_black/footer__type_black.css);
+@import url(../vendor/fonts/stylesheet.css);
 
-/**{
-    border: 1px solid red;
-  }*/
+@import url(../blocks/whome/whome.css);
+@import url(../blocks/whome/__span/whome__span.css);
+@import url(../blocks/whome/__submit-btn/whome__submit-btn.css);
+@import url(../blocks/whome/__text/whome__text.css);
+@import url(../blocks/whome/__title/whome__title.css);
+@import url(../blocks/whome/__column/whome__column.css);
+@import url(../blocks/whome-item/whome-item.css);
+@import url(../blocks/whome-item/__icon/whome-item__icon.css);
+@import url(../blocks/whome-item/__text/whome-item__text.css);
+@import url(../blocks/whome-item/__title/whome-item__title.css);
+@import url(../blocks/whome-item/__container/whome-item__container.css);

@@ -1,19 +1,22 @@
 .header__dropdown-link {
     text-decoration: none;
     color: #333;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-style:  normal;
+    font-family: Gilroy, -apple-system, 
+    BlinkMacSystemFont, 'Segoe UI', Roboto, 
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 
+    'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-style: normal;
     font-weight: 600;
-    font-size: 15px;
-    padding: 0;
+    line-height: 24px;
+    letter-spacing: 0.16px;
+    padding: 10px 15px;
     display: flex;
     transition: background-color 0.3s;
-    padding: 7px 15px 7px 15px;
+    border-bottom: 2px solid transparent;
 }
 
 .header__dropdown-link:hover {
-    color: #0f7cc0;
-    background-color: #fff;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    border-radius: 3px;
+    color: #641F76;
+    border-bottom: 2px solid var(--purple-active, #641F76);
 }

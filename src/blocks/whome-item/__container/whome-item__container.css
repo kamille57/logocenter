@@ -1,0 +1,6 @@
+.whome-item__container {
+    display: grid;
+    justify-items: space-between;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, min-content);
+}

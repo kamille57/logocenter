@@ -1,0 +1,8 @@
+.card-item__price-group {
+    display: flex;
+    max-width: 373px;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}

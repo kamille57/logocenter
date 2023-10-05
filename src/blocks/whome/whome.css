@@ -1,0 +1,9 @@
+.whome {
+    padding: 100px 240px 9px;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    background-image: url(../../../images/whome__background.png);
+    background-repeat: no-repeat;
+    z-index: 5;
+}
