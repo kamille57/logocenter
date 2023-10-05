@@ -1,0 +1,32 @@
+.courses__card-item {
+    width: 453px;
+    height: 325px;
+    border-radius: 10px;
+    margin: 0;
+    padding: 40px;
+    box-sizing: border-box;
+}
+
+.courses__card-item:nth-child(3n+1) {
+    background: #FDEDE4; /* Первая карточка */
+}
+
+.courses__card-item:nth-child(3n+2) {
+    background: #EFEFFF; /* Вторая карточка */
+}
+
+.courses__card-item:nth-child(3n+3) {
+    background: #D5E9F6; /* Третья карточка */
+}
+
+.courses__card-item:nth-child(3n+4) {
+    background: #D3FAD6; /* Четвертая карточка */
+}
+
+.courses__card-item:nth-child(3n+5) {
+    background: #FFF5CC; /* Пятая карточка */
+}
+
+.courses__card-item:nth-child(3n+6) {
+    background: #F1F1F1; /* Шестая карточка */
+}

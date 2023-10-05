@@ -2,11 +2,13 @@
 @import url(../fonts/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/content/content.css);
+
 @import url(../blocks/central/central.css);
 @import url(../blocks/central/__container/central__container.css);
 @import url(../blocks/central/__description/central__description.css);
 @import url(../blocks/central/__logo/central__logo.css);
 @import url(../blocks/central/__overlay/central__overlay.css);
+
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__menu-conatiner/header__menu-container.css);
@@ -20,6 +22,22 @@
 @import url(../blocks/header/__dropdown-icon/header__dropdown-icon.css);
 @import url(../blocks/header/__dropdown-li/_opened/header__dropdown-li_opened.css);
 @import url(../blocks/header/__link/_opened/header__link_opened.css);
+
+@import url(../blocks/courses/courses.css);
+@import url(../blocks/courses/__container/courses__container.css);
+@import url(../blocks/courses/__title-group/courses__title-group.css);
+@import url(../blocks/courses/__title/courses__title.css);
+@import url(../blocks/courses/__button/courses__button.css);
+@import url(../blocks/courses/__grid/courses__grid.css);
+@import url(../blocks/courses/__card-item/courses__card-item.css);
+@import url(../blocks/card-item/__img/card-item__img.css);
+@import url(../blocks/card-item/__title/card-item__title.css);
+@import url(../blocks/card-item/__subtitle/card-item__subtitle.css);
+@import url(../blocks/card-item/__span/card-item__span.css);
+@import url(../blocks/card-item/__price-group/card-item__price-group.css);
+@import url(../blocks/card-item/__link/card-item__link.css);
+@import url(../blocks/card-item/__img-arrow/card-item__img-arrow.css);
+@import url(../blocks/card-item/__price/card-item__price.css);
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/logo__place_footer.css);
@@ -48,8 +66,6 @@
 @import url(../blocks/footer/__type/_black/footer__type_black.css);
 @import url(../vendor/fonts/stylesheet.css);
 
-
-
 @import url(../blocks/whome/whome.css);
 @import url(../blocks/whome/__span/whome__span.css);
 @import url(../blocks/whome/__submit-btn/whome__submit-btn.css);
@@ -61,6 +77,3 @@
 @import url(../blocks/whome-item/__text/whome-item__text.css);
 @import url(../blocks/whome-item/__title/whome-item__title.css);
 @import url(../blocks/whome-item/__container/whome-item__container.css);
-/* *{
-    border: 1px solid yellow;
-  } */

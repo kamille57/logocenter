@@ -1,4 +1,3 @@
-import React from "react";
 import pupilsIcon from "../images/whome__pupils-icon.svg";
 import migrants from "../images/whome__migrants-icon.svg";
 import business from "../images/whome__business-icon.svg";

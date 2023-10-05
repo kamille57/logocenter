@@ -1,4 +1,3 @@
-import React from "react";
 import footerLogo from "../images/logo__place_footer.svg";
 import visaImage from "../images/visa_img.svg";
 import masterCardImage from "../images/mastercard_img.svg";
