@@ -1,24 +1,23 @@
 .popup-phone__wa-logo {
   width: 50px;
-  height: auto;
+  height: 50px;
   margin: 30px 140px;
-  animation: moveAndRotate 1.5s infinite linear;
+  animation: moveAndRotate 2s infinite ease-in-out;
+  transform-origin: center center;
+  animation-delay: 1s;
 }
 
 @keyframes moveAndRotate {
-  0% {
-    transform: translateX(0) translateY(0) rotate(0deg);
+  0%, 100% {
+    transform: translate3d(0, 0, 0) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
   }
   25% {
-    transform: translateX(-2px) translateY(-2px) rotate(-5deg);
+    transform: translate3d(-2px, -2px, -2px) rotateX(-5deg) rotateY(-5deg) rotateZ(-5deg);
   }
   50% {
-    transform: translateX(2px) translateY(2px) rotate(5deg);
+    transform: translate3d(2px, 2px, 2px) rotateX(5deg) rotateY(5deg) rotateZ(5deg);
   }
   75% {
-    transform: translateX(-2px) translateY(-2px) rotate(-5deg);
-  }
-  100% {
-    transform: translateX(0) translateY(0) rotate(0deg);
+    transform: translate3d(-2px, -2px, -2px) rotateX(-5deg) rotateY(-5deg) rotateZ(-5deg);
   }
 }
