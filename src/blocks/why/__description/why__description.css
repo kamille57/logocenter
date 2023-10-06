@@ -1,4 +1,5 @@
 .why__description {
+    margin: auto;
    display: flex;
    flex-direction: column;
 }
