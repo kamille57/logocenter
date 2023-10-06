@@ -12,6 +12,7 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__menu-conatiner/header__menu-container.css);
+@import url(../blocks/header/__menu-conatiner/__group/header__menu-container__group.css);
 @import url(../blocks/header/__ul-container/header__ul-container.css);
 @import url(../blocks/header/__li/header__li.css);
 @import url(../blocks/header/__link/header__link.css);
@@ -22,6 +23,15 @@
 @import url(../blocks/header/__dropdown-icon/header__dropdown-icon.css);
 @import url(../blocks/header/__dropdown-li/_opened/header__dropdown-li_opened.css);
 @import url(../blocks/header/__link/_opened/header__link_opened.css);
+
+@import url(../blocks/popup-phone/__open-button/popup-phone__open-button.css);
+@import url(../blocks/popup-phone/popup-phone.css);
+@import url(../blocks/popup-phone/__content/popup-phone__content.css);
+@import url(../blocks/popup-phone/__close-button/popup-phone__close-button.css);
+@import url(../blocks/popup-phone/__main-image/popup-phone__main-image.css);
+@import url(../blocks/popup-phone/__title/popup-phone__title.css);
+@import url(../blocks/popup-phone/__link/popup-phone__link.css);
+@import url(../blocks/popup-phone/__wa-logo/popup-phone__wa-logo.css);
 
 @import url(../blocks/courses/courses.css);
 @import url(../blocks/courses/__container/courses__container.css);
