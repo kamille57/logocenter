@@ -1,0 +1,20 @@
+.popup-phone__open-button {
+    display: flex;
+    background-color: #78258D;
+    border-radius: 8px;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    margin: 0 50px 0 0;
+    padding: 12px 18px;
+    color: #FFF;
+    font-family: Gilroy, -apple-system, 
+        BlinkMacSystemFont, 'Segoe UI', Roboto, 
+        Oxygen, Ubuntu, Cantarell, 'Open Sans', 
+        'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.16px;
+}

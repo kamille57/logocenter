@@ -1,0 +1,4 @@
+.header__menu-container__group {
+    display: flex;
+    flex-direction: row;
+}
