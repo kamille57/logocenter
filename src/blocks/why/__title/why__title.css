@@ -1,3 +1,9 @@
 .why__title {
-    grid-area: head;
+    margin: 26px 0;
+    color: #232323;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 113%;
+    letter-spacing: 0.36px;
 }

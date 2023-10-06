@@ -1,5 +1,6 @@
 .why__img {
-    grid-area: img;
-    width: 702px;
+    width: 500px;
     height: 422px;
+    object-fit: contain;
+    text-align: center;
 }

@@ -1,3 +1,9 @@
 .why__text {
-    grid-area: descript;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: #4F4F4F;
+    text-wrap: balance;
 }
